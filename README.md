@@ -18,7 +18,7 @@ O principal objetivo é explorar os dados de PIB desses três países, identific
 - Statsmodels: Análise de tendências em séries temporais.
 - Pmdarima: Implementação do modelo ARIMA.
 - Wbdata: Obtenção de dados econômicos da API do Banco Mundial.
-- 
+
 # 📈 Fluxo do Projeto
 Coleta de Dados: Os dados são obtidos pela API do Banco Mundial para os anos de 2000 a 2025.
 
